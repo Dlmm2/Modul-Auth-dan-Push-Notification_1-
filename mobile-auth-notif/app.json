@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "mobile-auth-notif",
+    "slug": "mobile-auth-notif",
+    "scheme": "mobileauthnotif",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-router",
+      "expo-notifications",
+      "expo-asset",
+      "expo-secure-store",
+      "expo-font"
+    ],
+    "android": {
+      "package": "id.ac.uinsa.mobileauthnotif",
+      "googleServicesFile": "./google-services.json"
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "2674b74f-7d74-4def-9a48-b1feba469ba3"
+      }
+    }
+  }
+}

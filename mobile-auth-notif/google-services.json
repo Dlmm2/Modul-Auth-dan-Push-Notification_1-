@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638582775468",
+    "project_id": "tugasmodul4-e1f12",
+    "storage_bucket": "tugasmodul4-e1f12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638582775468:android:95a5b2c6de36c2e2320909",
+        "android_client_info": {
+          "package_name": "com.dimas.mobileauthnotif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsHK6EoaLaddszB4VIUq9rvh0aoGzWUek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
